@@ -81,7 +81,7 @@ src/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/habit-tracker.git
+https://github.com/Sabbir12341/Personal-Habit-Tracker.git
 cd habit-tracker
 ```
 
